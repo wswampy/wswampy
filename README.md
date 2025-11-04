@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm currently pursuing a **Bachelor of Science (Computer Science & Finance)** at the **University of Sydney**, where I explore how **technology and financial systems** intersect.  
+I'm currently pursuing a **Bachelor of Commerce/Science (Computer Science & Finance)** at the **University of Sydney**, where I explore how **technology and financial systems** intersect.  
 My academic and personal projects blend **software engineering**, **data analysis**, and **financial modelling**, with a strong focus on **problem-solving** and **efficiency through algorithms**.
 
 I’m passionate about building **scalable software**, exploring **AI-driven financial systems**, and working on **projects that bridge tech and business strategy**.
@@ -19,7 +19,6 @@ I’m passionate about building **scalable software**, exploring **AI-driven fin
 ### 💻 Programming Languages
 - **Python** — automation, backend logic, APIs, and data analysis  
 - **Java** — OOP design, algorithms, and large-scale software development  
-- **C / C++ (learning)** — systems-level programming and performance optimization  
 
 ### ⚙️ Core Competencies
 - **Data Structures & Algorithms (DSA)** — strong foundation in complexity analysis, recursion, and graph theory  
@@ -85,9 +84,9 @@ Some of my current learning interests include:
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🧑‍💻 [GitHub](https://github.com/your-username)  
-- ✉️ Reach me at: **your.email@uni.sydney.edu.au**
+- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/will-rylands-3b68431a4/)  
+- 🧑‍💻 [GitHub](https://github.com/wswampy)  
+- ✉️ Reach me at: **wryl0542@uni.sydney.edu.au**
 
 ---
 

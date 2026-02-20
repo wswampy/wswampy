@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm currently pursuing a **Bachelor of Commerce/Science (Computer Science & Finance)** at the **University of Sydney**, where I explore how **technology and financial systems** intersect.  
+I'm currently pursuing a **Bachelor of Commerce/Science (Computer Science,Finance & Physics )** at the **University of Sydney**, where I explore how **technology and financial systems** intersect.  
 My academic and personal projects blend **software engineering**, **data analysis**, and **financial modelling**, with a strong focus on **problem-solving** and **efficiency through algorithms**.
 
 I’m passionate about building **scalable software**, exploring **AI-driven financial systems**, and working on **projects that bridge tech and business strategy**.
@@ -51,14 +51,6 @@ An educational tool to visualize sorting and graph algorithms (DFS, BFS, Dijkstr
 
 ---
 
-## 🧮 Finance x Tech Interests
-
-I'm fascinated by how **quantitative models**, **algorithms**, and **machine learning** can optimize financial decision-making.  
-Some of my current learning interests include:
-- Algorithmic Trading & Portfolio Optimization  
-- Data Structures for Financial Systems  
-- Machine Learning for Risk & Forecasting  
-
 ---
 
 ## 🧰 Tools & Technologies
@@ -66,19 +58,18 @@ Some of my current learning interests include:
 | Category | Tools |
 |-----------|-------|
 | **Version Control** | Git, GitHub |
-| **Data & Analysis** | Pandas, NumPy, Matplotlib |
-| **APIs & Web** | Flask, Requests |
-| **Development** | VS Code, IntelliJ, Jupyter |
-| **Other** | LaTeX, Excel Financial Models |
+| **APIs & Web** | Flask, Requests, Rest |
+| **Development** | VS Code, AntiGravity, Cursor, (dabbled in Vim) |
+| **Other** | LaTeX, Excel |
 
 ---
 
 ## 📈 Currently Learning
 
-- Advanced **Data Structures and Algorithms** (COMP2123, USYD)
-- **Software Architecture & Design Patterns**
-- **Machine Learning Foundations**
-- **Corporate Finance Applications in Tech**
+- **Systems Programming**
+- **M&A**
+- **Intro to Artificial Intelligence**
+- **International Financial Management**
 
 ---
 
@@ -90,5 +81,5 @@ Some of my current learning interests include:
 
 ---
 
-> _“Technology and finance are not separate disciplines — they’re two sides of the same equation shaping the future.”_
+> _“Just build.”_
 

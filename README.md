@@ -30,24 +30,36 @@ I’m passionate about building **scalable software**, exploring **AI-driven fin
 
 ## 🧠 Projects
 
-### 🎮 **Connect Four (Advanced OOP & Decorators)**
+### 🎮 **Connect Four (Advanced OOP & Decorators (Not on Github)**
 A two-player Connect Four game implemented in Python with **classes, inheritance, decorators**, and **special game mechanics** (BombPiece & TeleportPiece).  
 🧩 Focus: Game logic, class hierarchy, decorators, gravity simulation  
 📁 [View Project](#)
 
 ---
 
-### 💰 **Banking App (Python CLI)**
+### 💰 **Banking App (Python CLI)(Not on Github)**
 A command-line **banking simulation** that models real-world features such as **accounts, deposits, withdrawals, and currency exchange**, built using **OOP principles** and **API integration**.  
 💡 Focus: Object-oriented design, encapsulation, and API usage  
 📁 [View Project](#)
 
 ---
 
-### 🔍 **Algorithm Visualizer (Java / DSA)**
+### 🔍 **Algorithm Visualizer (Not on Github)**
 An educational tool to visualize sorting and graph algorithms (DFS, BFS, Dijkstra).  
 ⚙️ Focus: Algorithm design, recursion, and GUI representation of data structures  
 📁 [View Project](#)
+
+### 🔍 **AI video Generatory (On GITHUB)** 
+Created an AI product video generator, which produced world class videos for client products.
+⚙️ Focus: API management, Webhooks, Prompt Management, n8n 
+
+### 🔍 **Griddy - AI powered renewable energy planning assistant tool for city developers(Not on Github) - **
+AI-powered renewable energy planning platform that helps corporations and governments instantly identify optimal locations for large-scale wind,hydro and solar across Australia, at the click of a button.  
+⚙️ Focus:  Satellite data, Google Maps API, built an comprehensive machine learning model and Open Electricity API to build our product.
+
+
+
+
 
 ---
 

@@ -18,7 +18,9 @@ I’m passionate about building **scalable software**, exploring **AI-driven fin
 
 ### 💻 Programming Languages
 - **Python** — automation, backend logic, APIs, and data analysis  
-- **Java** — OOP design, algorithms, and large-scale software development  
+- **Java** — OOP design, algorithms, and large-scale software development
+- **C++** - Embedded robotics systems
+- **C** - Low Level Compiler optimisation
 
 ### ⚙️ Core Competencies
 - **Data Structures & Algorithms (DSA)** — strong foundation in complexity analysis, recursion, and graph theory  
@@ -56,9 +58,6 @@ Created an AI product video generator, which produced world class videos for cli
 ### 🔍 **Griddy - AI powered renewable energy planning assistant tool for city developers(Not on Github) - **
 AI-powered renewable energy planning platform that helps corporations and governments instantly identify optimal locations for large-scale wind,hydro and solar across Australia, at the click of a button.  
 ⚙️ Focus:  Satellite data, Google Maps API, built an comprehensive machine learning model and Open Electricity API to build our product.
-
-
-
 
 
 ---
